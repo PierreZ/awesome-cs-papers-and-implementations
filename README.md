@@ -1,6 +1,6 @@
 # Awesome CS papers and implementations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-AN awesome list about the most iconic CS papers and their open source implementation.
+An awesome list about the most iconic CS papers and their open source implementation.
 
 ## Papers
 
