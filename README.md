@@ -39,5 +39,3 @@ An awesome list about the most iconic CS papers and their open source implementa
 # How to contribute
 
 I'm looking forward to discover new papers made by companies, please send me PR!
-
-https://static.googleusercontent.com/media/research.google.com/fr//archive/chubby-osdi06.pdf
