@@ -11,7 +11,8 @@ An awesome list about the most iconic CS papers and their open source implementa
 | Google |  [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/fr//archive/bigtable-osdi06.pdf) | [HBase](https://hbase.apache.org)
 | Amazon | [Amazon Dynamo](http://s3.amazonaws.com/AllThingsDistributed/sosp/amazon-dynamo-sosp2007.pdf) | [Voldemort](https://github.com/voldemort/voldemort)
 | Facebook | [Cassandra — A Decentralized Structured Storage System](http://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf) | [Cassandra](http://cassandra.apache.org/)
-| Google | [Large-scale cluster management at Google with Borg](https://research.google.com/pubs/archive/43438.pdf) | [Mesos](http://mesos.apache.org/)
+| Google | [Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/fr//pubs/archive/36632.pdf) | [Apache Drill](https://drill.apache.org/)
+| Google | [Spanner: Google’s Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/fr//archive/spanner-osdi2012.pdf) | [CockroachDB](https://github.com/cockroachdb/cockroach)
 
 ### Distributed systems
 
@@ -34,7 +35,7 @@ An awesome list about the most iconic CS papers and their open source implementa
 | Company | Name of the paper   |  Name of the opensource implementation  |
 | ------------- | ------------- | ---------------- |
 | Google |  [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://research.google.com/pubs/archive/41892.pdf) | [libmacaroons](https://github.com/rescrv/libmacaroons)
-
+| Bitcoin |  [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) | [Bitcoin](https://github.com/bitcoin/bitcoin)
 
 # How to contribute
 
