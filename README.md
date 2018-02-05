@@ -20,10 +20,10 @@ An awesome list about the most iconic CS papers and their open source implementa
 | ------------- | ------------- | ---------------- |
 | Google | [The Google file system](https://research.google.com/archive/gfs-sosp2003.pdf)  |[Hadoop Distributed File System](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)  |
 | Google |  [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/fr//archive/mapreduce-osdi04.pdf) | [MapReduce in Hadoop](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html)
+| Google | [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure ](https://research.google.com/pubs/pub36356.html)  |[Zikpkin?](https://zipkin.io/)  |
 | Google | [Large-scale cluster management at Google with Borg](https://research.google.com/pubs/archive/43438.pdf) | [Mesos](http://mesos.apache.org/)
 | LinkedIn | [Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf) | [Apache Kafka](http://kafka.apache.org/)
 
-Kafka: a Distributed Messaging System for Log Processing
 
 ### Consensus
 
