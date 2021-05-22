@@ -2,6 +2,8 @@
 
 An awesome list about the most iconic CS papers and their open source implementation.
 
+**EDIT 2021:** This repo is archived, You can now find all my favorite papers in my [Zotero library!](https://www.zotero.org/pierre.zemb/collections/VUVPTBG8)
+
 ## Papers
 
 ### Databases
